@@ -1,0 +1,30 @@
+
+.cards-footer-three img {
+    width: 60%;
+}
+
+.cards-footer-three {
+    margin: 20px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 4px #e0ebeb;
+}
+
+.footer{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 752px) {
+    .header-right-side{
+        text-align: center;
+    }
+    .cards-footer-three{
+        text-align: center;
+    }
+
+}
+
+.card{
+    padding: 15px;
+}
